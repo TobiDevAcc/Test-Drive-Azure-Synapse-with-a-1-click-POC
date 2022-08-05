@@ -1,10 +1,11 @@
 {
 	"name": "PowerBIWorkspaceTripsFares",
 	"properties": {
+		"description": "df",
 		"annotations": [],
 		"type": "PowerBIWorkspace",
 		"typeProperties": {
-			"workspaceID": "",
+			"workspaceID": "e65a6ae5-91ed-49fa-805f-3594fb3deced",
 			"tenantID": "72f988bf-86f1-41af-91ab-2d7cd011db47"
 		}
 	}
